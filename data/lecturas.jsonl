@@ -1,0 +1,4 @@
+{"dispositivo_id":"sensor-01","fecha_hora":"2026-10-08T08:00:00-05:00","temperatura_c":24.5,"humedad_pct":61.2}
+{"dispositivo_id":"sensor-01","fecha_hora":"2026-10-08T09:00:00-05:00","temperatura_c":25.1,"humedad_pct":59.8}
+{"dispositivo_id":"sensor-02","fecha_hora":"2026-10-08T08:00:00-05:00","temperatura_c":23.7,"humedad_pct":65.0}
+{"dispositivo_id":"sensor-02","fecha_hora":"2026-10-08T09:00:00-05:00","temperatura_c":24.2,"humedad_pct":63.4}
